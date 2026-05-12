@@ -45,6 +45,12 @@ Grama-Khata is an offline-first Android application designed for small village g
 
 This project aims to help rural shopkeepers digitally manage customer dues in a simple, fast, and user-friendly way without depending on internet connectivity.
 
+## APK Download
+
+Download the APK here:
+https://drive.google.com/drive/folders/1jZ8Bnhtn7kl5Q5LXheLpjr4eFb700-m4?usp=sharing
+
+
 ## Author
 
 Keerthana K Unni
